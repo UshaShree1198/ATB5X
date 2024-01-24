@@ -1,4 +1,4 @@
-package src.Basics001;
+package src.functions;
 
 public class MathFunction {
     public static void main(String[] args) {
