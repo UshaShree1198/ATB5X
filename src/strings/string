@@ -1,0 +1,9 @@
+ STRING
+  * STRING is a object which represents a charecter value
+  * we can declare string using "new" keyword
+               String str = new String("Thank you Universe");
+  * And also by using string literals
+               String str = "Thank you Universe";
+  * Strings are derived data types
+  * String objects are created using the java.lang.String class
+  * STRING POOL - it is a special storage space in Java heap memory that is used to store unique string objects

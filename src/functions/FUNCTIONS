@@ -1,0 +1,6 @@
+    Functions are block of code that performs particular task.
+    creating a function - 1. defination 2. call the function.
+    To define a function you have to use any access modifier followed by return type of the function, followed by
+    function name and pass the parameters .
+    PUBLIC VOID FUNCTION_NME(INT A , INT B);
+
