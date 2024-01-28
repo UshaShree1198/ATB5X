@@ -4,6 +4,12 @@
                String str = new String("Thank you Universe");
   * And also by using string literals
                String str = "Thank you Universe";
+               or
+               StringBuffer sb = new StringBuffer();
+               StringBuilder sb = new StringBuilder();
   * Strings are derived data types
   * String objects are created using the java.lang.String class
   * STRING POOL - it is a special storage space in Java heap memory that is used to store unique string objects
+  ** in strings .equals will checks content and == operator will check the reference variable.
+
+

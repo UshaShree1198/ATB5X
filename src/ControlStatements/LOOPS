@@ -1,0 +1,38 @@
+  Looping statements in java is continuous execution until the evaluation of the expression turns out to be false.
+  loops means to perform a tast multiple times
+ 3 TYPES 1. FOR LOOP
+         2. WHILE
+         3. DO WHILE
+
+         *****break and continue works in loops
+
+       *FOR LOOP : For loop is generally used when the user knows the exact number of iterations.
+                   based on condition task will perform multiple times
+                   for loop is a control flow statement that iterates a part of the programs multiple times.
+                   for(int i=1;i<=10;i++)
+                   {
+                   System.out.println(i);
+                   }
+
+        * WHILE  : While loop uses when the user is not aware of the exact iteration number.
+                    while loop is a control flow statement that executes a part of the programs repeatedly on the basis
+                    of given boolean condition.
+                  int i=1;
+                  while(i<=10){
+                  System.out.println(i);
+                  i++;
+                  }
+
+
+
+       * DO whILE : This statement first executes the statement under "do" after that it checks the condition of "while".
+                     This statement executes at least once even though the statement generates a "false" value.
+                     Do while loop is basically an "exit control loop".
+                     There is only one type of “Do while loop” which is called "Infinite Do While Loop".
+
+                      int i=1;
+                      do{
+                      System.out.println(i);
+                      i++;
+                      }while(i<=10);
+
