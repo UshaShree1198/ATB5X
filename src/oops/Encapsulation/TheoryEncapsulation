@@ -1,0 +1,12 @@
+Encapsulation describes the ability of an object to hide its data and methods from rest of the world.
+real time example is class.. class is a container which has variables and methods.
+Encapsulation is used to secure our data. so that we should not expose our data  , by not giving access to data outside the object ,
+we are giving access to data only through methods.
+benefit of encapsulation in Java is that it minimises the risk of external inheritance of the codes and data that you use.
+ This benefit can preserve the security and privacy of sensitive information that relates to a company's customers and employees.
+The getter method in Java is useful for collecting a variable's value
+The setter method is a process that programmers use to update a variable's values.
+
+// HOW TO ACHIEVE ENCAPSULATION
+The first task is to define the variable of the class as private, as this act can confirm the security that encapsulation provides.
+The second task you can complete to achieve encapsulation is to provide setter and getter methods that are public.

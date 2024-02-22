@@ -1,0 +1,9 @@
+  Constructor is special method that initialize objects.
+  It is called when instance of class is created (i.e)  new object()
+  Java compiler creates default constructor. if you doesnt have any. invoked implicitly
+  Constructor name should be same as class name
+  2 types of constructor 1. default 2. parameterized constructor
+  default constructor is used to provide default values to object like null,0 depending on the type
+  The parameterized constructor is used to provide different values to distinct objects. However, you can provide the same values also.
+  Constructor overloading in Java is a technique of having more than one constructor with different parameter lists.
+  Constructor does not have return type.
