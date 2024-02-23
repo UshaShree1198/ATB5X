@@ -1,4 +1,4 @@
-package src.Basics001;
+package src.operators;
 
 public class DataTypes {
     public static void main(String[] args) {
