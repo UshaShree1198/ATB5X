@@ -1,0 +1,11 @@
+Polymorphism is ability of object to take on many forms
+2 types 1. compile time 2. Run time polymorphism
+
+compile time polymorphism is atype of polymorphism whih ca be achieved at java compilation time
+it is also called static polymorphism or early binding
+can be achived by method overloading
+
+
+runtime polymorphism is atype of polymorphism which can be achieved at java runtime
+dynamic polymorphism
+achieved using method overriding
