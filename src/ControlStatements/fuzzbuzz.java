@@ -1,4 +1,4 @@
-package src.Loops;
+package src.ControlStatements;
 
 /* program to print 1 to 100
  if divisible by 3 print "fizz"

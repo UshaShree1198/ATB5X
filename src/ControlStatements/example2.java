@@ -1,4 +1,4 @@
-package src.Loops;
+package src.ControlStatements;
 
 
 import java.util.Scanner;
